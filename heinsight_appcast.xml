@@ -5,9 +5,9 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.5</title>
+      <title>Version 1.0.7</title>
       <link>https://sparkle-project.org</link>
-      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:version>1.0.7</sparkle:version>
       <description>
       <![CDATA[ <ul> <li>Fixed Scroll Lagging on images</li> <li>Fixed shared post preview length</li>New version notifier added<li></li> </ul> ]]>
       </description>
