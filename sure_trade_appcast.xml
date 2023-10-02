@@ -7,7 +7,7 @@
     <item>
       <title>Version 2.0.8</title>
       <link>https://play.google.com/store/apps/details?id=com.gamestar.gamestar</link>
-      <sparkle:version>1.0.12</sparkle:version>
+      <sparkle:version>2.0.8</sparkle:version>
       <description>
       <![CDATA[ <ul> <li>Added In-App Notifications</li> <li>Added Cancel Transaction</li><li>Fixed bug on referral link</li> </ul> ]]>
       </description>
