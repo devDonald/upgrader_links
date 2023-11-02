@@ -5,13 +5,13 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 2.0.11</title>
+      <title>Version 2.0.13</title>
       <link>https://play.google.com/store/apps/details?id=com.gamestar.gamestar</link>
-      <sparkle:version>2.0.11</sparkle:version>
+      <sparkle:version>2.0.13</sparkle:version>
       <description>
-      <![CDATA[ <ul> <li>Added Support for Indians</li> </ul> ]]>
+      <![CDATA[ <ul> <li>Fixed Transaction History bug</li> </ul> ]]>
       </description>
-      <pubDate>Thursday, 05 October 2023 11:00:11 +0000</pubDate>
+      <pubDate>Thursday, 02 November 2023 14:00:11 +0000</pubDate>
       <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
     </item>
   </channel>
