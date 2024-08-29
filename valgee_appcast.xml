@@ -1,15 +1,10 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Heinsight Changelog</title>
-    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
+    <title>Valgee Changelog</title>
     <item>
       <title>Version 1.0.12</title>
-      <link>https://sparkle-project.org</link>
-      <sparkle:version>1.0.12</sparkle:version>
       <description>
-      <![CDATA[ <ul> <li>Added update notifier</li> </ul> ]]>
+      - Added update notifier
       </description>
       <pubDate>Friday, 29 Aug 2024 15:00:11 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.valgee.app" length="107758" type="application/octet-stream"  sparkle:version="1.15.0" sparkle:os="android"/>
