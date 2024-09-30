@@ -2,12 +2,12 @@
   <channel>
     <title>Valgee Changelog</title>
     <item>
-      <title>Version 1.0.12</title>
+      <title>Version 1.0.13</title>
       <description>
       - Added update notifier
       </description>
-      <pubDate>Friday, 29 Aug 2024 15:00:11 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.valgee.app" length="107758" type="application/octet-stream"  sparkle:version="1.0.12" sparkle:os="android"/>
+      <pubDate>Monday, 30 Sept 2024 15:00:11 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.valgee.app" length="107758" type="application/octet-stream"  sparkle:version="1.0.13" sparkle:os="android"/>
     </item>
   </channel>
 </rss>
