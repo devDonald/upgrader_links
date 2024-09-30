@@ -5,14 +5,14 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.9</title>
+      <title>Version 1.0.10</title>
       <link>https://sparkle-project.org</link>
-      <sparkle:version>1.0.9</sparkle:version>
+      <sparkle:version>1.0.10</sparkle:version>
       <description>
       <![CDATA[ <ul> <li>Added update notifierr</li> </ul> ]]>
       </description>
-      <pubDate>Wed, 28 Aug 2024 15:00:11 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.riders.app" length="107758" type="application/octet-stream"  sparkle:version="1.15.0" sparkle:os="android"/>
+      <pubDate>Monday, 30 Sept 2024 15:00:11</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.riders.app" length="107758" type="application/octet-stream"  sparkle:version="1.0.10" sparkle:os="android"/>
     </item>
   </channel>
 </rss>
